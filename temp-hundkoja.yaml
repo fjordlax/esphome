@@ -20,7 +20,10 @@ logger:
 api:
 
 ota:
-
+dashboard_import:
+  package_import_url: github://fjordlax/esphome/temp-hundkoja.yaml@main
+  import_full_config: true
+  
 wifi:
   ssid: !secret wifi_ssid2
   password: !secret wifi_password
