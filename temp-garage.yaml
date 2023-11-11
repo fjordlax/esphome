@@ -39,7 +39,7 @@ dallas:
 sensor:
  - platform: dallas
    address: 0x700008022a0d1210
-   name: temperatur-hundkoja
+   name: temperatur-garage
 
 
     
