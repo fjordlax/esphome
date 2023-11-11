@@ -22,7 +22,7 @@ api:
 ota:
 
 dashboard_import:
-  package_import_url: github://fjordlax/esphome/temp-hundkoja.yaml@main
+  package_import_url: github://fjordlax/esphome/temp-garage.yaml@main
   import_full_config: true
 
 wifi:
